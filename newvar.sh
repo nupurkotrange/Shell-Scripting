@@ -1,2 +1,2 @@
-z = "this is cloud"
-echo $z
+variable="this is cloud"
+echo $variable
